@@ -16,14 +16,14 @@
                 <field id="externalcheckout_link" translate="label" sortOrder="1" type="text" showInDefault="1"
                        showInWebsite="1" showInStore="1">
                     <label>VueStorefront succespage</label>
-                    <comment>After a transaction, we will redirect the traffic to this URL. For example
+                    <comment>After a transaction, we will redirect the traffic to this URL. For example:
                         'https://demo.vuestorefront.io/succespage'
                     </comment>
                 </field>
                 <field id="checkout_path" translate="label" sortOrder="1" type="text" showInDefault="1"
                        showInWebsite="1" showInStore="1">
                     <label>Checkout path</label>
-                    <comment>We will redirect the traffic from VueStorefront to this path. For example 'checkout/cart'
+                    <comment>We will redirect the traffic from VueStorefront to this path. For example 'checkout/cart' or 'checkout'
                     </comment>
                 </field>
             </group>

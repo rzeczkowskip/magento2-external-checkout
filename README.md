@@ -9,8 +9,10 @@ This extension allows the user to start the session within the Vue Storefront sh
 ![External checkout for Vue Storefront](https://raw.githubusercontent.com/Vendic/vsf-external-checkout/master/media/diagram.png)
 
 ### Demo
-You can check this extension in action on: https://demo-magento-checkout.vuestorefront.io
-Please add some items to the cart and then go to **Cart -> Go to checkout**. You will be redirected to the [Magento2 instance](http://demo-magento2.vuestorefront.io/) synchronized with the [Vue Storefront instance](demo-magento-checkout.vuestorefront.io). Shopping carts, logged in user, totals, item prices - should be synchronized with Magento 2.
+[A demo is not yet available.](https://github.com/Vendic/magento2-external-checkout/issues/1)
+
+### Compatibility
+- Magento 2.2 or Magento 2.3
 
 ### Prerequisites (the Vue Storefront part)
 1. Integrate Your Magento2 instance with Vue Storefront: [tutorial](https://medium.com/@piotrkarwatka/vue-storefront-cart-totals-orders-integration-with-magento2-6fbe6860fcd), [video tutorial](https://www.youtube.com/watch?v=CtDXddsyxvM)
