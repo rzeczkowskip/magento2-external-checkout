@@ -1,20 +1,15 @@
 <?php
-/**
- * @package   Divante\CartSync
- * @author    Maciej Daniłowicz <mdaniłowicz@divante.pl>
- * @copyright 2018 Divante Sp. z o.o.
- * @license   See LICENSE_DIVANTE.txt for license details.
- */
+declare(strict_types=1);
 
-namespace Divante\CartSync\Observer;
+namespace VueStorefront\CartSync\Observer;
 
-use Divante\CartSync\Model\Config;
+use VueStorefront\CartSync\Model\Config;
 use Magento\Framework\Event\ObserverInterface;
 
 /**
  * Class SuccessObserver
  *
- * @package Divante\CartSync\Observer
+ * @package VueStorefront\CartSync\Observer
  */
 class SuccessObserver implements ObserverInterface
 {

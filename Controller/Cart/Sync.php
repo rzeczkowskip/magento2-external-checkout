@@ -1,16 +1,11 @@
 <?php
-/**
- * @package   Divante\CartSync
- * @author    Mateusz Bukowski <mbukowski@divante.pl>
- * @copyright 2018 Divante Sp. z o.o.
- * @license   See LICENSE_DIVANTE.txt for license details.
- */
+declare(strict_types=1);
 
-namespace Divante\CartSync\Controller\Cart;
+namespace VueStorefront\CartSync\Controller\Cart;
 
-use Divante\CartSync\Model\Config;
-use Divante\CartSync\Service\SyncInterface;
-use Divante\CartSync\Service\SyncLoggerFactory;
+use VueStorefront\CartSync\Model\Config;
+use VueStorefront\CartSync\Service\SyncInterface;
+use VueStorefront\CartSync\Service\SyncLoggerFactory;
 use Magento\Customer\Api\CustomerRepositoryInterface;
 use Magento\Customer\Model\Session as CustomerSession;
 use Magento\Framework\App\Action\Action;
