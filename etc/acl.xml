@@ -4,7 +4,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="Divante_CartSync::configuration" title="VueStorefront external checkout"/>
+                <resource id="VueStorefront_CartSync::configuration" title="VueStorefront external checkout"/>
             </resource>
         </resources>
     </acl>

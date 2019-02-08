@@ -9,7 +9,7 @@
                  showInWebsite="1" showInStore="1">
             <label>External Checkout</label>
             <tab>vuestorefront_config</tab>
-            <resource>Divante_CartSync::configuration</resource>
+            <resource>VueStorefront_CartSync::configuration</resource>
             <group id="externalcheckout_general" translate="label" type="text" sortOrder="1" showInDefault="1"
                    showInWebsite="1" showInStore="1">
                 <label>General</label>

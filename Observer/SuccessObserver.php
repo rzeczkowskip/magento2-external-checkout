@@ -1,15 +1,15 @@
 <?php
 declare(strict_types=1);
 
-namespace Divante\CartSync\Observer;
+namespace VueStorefront\CartSync\Observer;
 
-use Divante\CartSync\Model\Config;
+use VueStorefront\CartSync\Model\Config;
 use Magento\Framework\Event\ObserverInterface;
 
 /**
  * Class SuccessObserver
  *
- * @package Divante\CartSync\Observer
+ * @package VueStorefront\CartSync\Observer
  */
 class SuccessObserver implements ObserverInterface
 {

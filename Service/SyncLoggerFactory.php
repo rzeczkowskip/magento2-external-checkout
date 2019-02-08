@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Divante\CartSync\Service;
+namespace VueStorefront\CartSync\Service;
 
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;
