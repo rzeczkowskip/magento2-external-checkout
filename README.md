@@ -4,7 +4,7 @@ This Magento extension allow You to merge given shopping cart with current's use
 
 This module is designed to work with: [Vue Storefront External Checkout](https://github.com/Vendic/vsf-external-checkout).
 
-This extension allows the user to start the session within the Vue Storefront shop and finalize the order in Magento2. It's great when You have very extended/customized Magento checkout which will be hard to port to Vue Storefront.
+This extension allows the user to start the session within the Vue Storefront shop and finalize the order in Magento2. It's great when You have very extended/customized Magento checkout which will  be hard to port to Vue Storefront.
 
 ![External checkout for Vue Storefront](https://raw.githubusercontent.com/Vendic/vsf-external-checkout/master/media/diagram.png)
 
@@ -24,7 +24,7 @@ This extension allows the user to start the session within the Vue Storefront sh
 composer require vuestorefront/magento2-vue-cart-sync
 ```
 3. Run `php bin/magento setup:upgrade`
-4. Please install the [`vsf-external-checkout`](https://github.com/filrak/vsf-external-checkout) module for Vue Storefront. [See the instruction](https://github.com/filrak/vsf-external-checkout).
+4. Please install the [`vsf-external-checkout`](https://github.com/Vendic/vsf-external-checkout) module for Vue Storefront. [See the instruction](https://github.com/Vendic/vsf-external-checkout).
 5. Go to: Stores -> Configuration | VueStorefront -> External Checkout and set URL
 
 To test if Your extension works just fine, You can test the following URL:
