@@ -1,5 +1,5 @@
 # Magento 2 External Checkout for Vue Storefront
-**This module is for Magento 2only. You can find the Magento 1 external checkout module [here](https://github.com/DivanteLtd/magento1-external-checkout)**
+**This module is for Magento 2 only. You can find the Magento 1 external checkout module [here](https://github.com/DivanteLtd/magento1-external-checkout)**
 
 This Magento extension allow You to merge given shopping cart with current's user session. It performs a auto-login if user-token provided.
 
