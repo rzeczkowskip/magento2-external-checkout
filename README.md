@@ -10,8 +10,7 @@ This extension allows the user to start the session within the Vue Storefront sh
 ![External checkout for Vue Storefront](https://raw.githubusercontent.com/Vendic/vsf-external-checkout/master/media/diagram.png)
 
 ### Demo
-[A demo is not yet available.](https://github.com/Vendic/magento2-external-checkout/issues/1)
-
+Check [meubelplaats.nl](https://www.meubelplaats.nl) for a demo of this module. Once go to the checkout you will be redirected to Magento 2, to finalize your order there.
 ### Compatibility
 - Magento 2.2 or Magento 2.3
 
